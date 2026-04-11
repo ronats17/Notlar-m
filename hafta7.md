@@ -40,4 +40,4 @@ Index, veritabanında veri arama hızını artıran bir yapıdır. Kitabın sonu
 Avantajları:
 ✅ Sorgu hızını önemli ölçüde artırır
 ✅ Arama işlemlerini hızlandırır
-✅ WHERE ve JOIN sorgularında performans sağlar
+✅ WHERE ve JOIN sorgularında performans sağlar.
